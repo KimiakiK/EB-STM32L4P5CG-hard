@@ -1,0 +1,1 @@
+# EB-STM32L4P5CG-hard
